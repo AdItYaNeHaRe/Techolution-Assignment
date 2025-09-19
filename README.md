@@ -1,4 +1,4 @@
-# TaskHub - Task Management Application
+# Techolution - Project Management Application
 
 A comprehensive full-stack task management application built with Node.js, Express, MongoDB, and React. Techolution allows users to create workspaces, manage projects, assign tasks, and collaborate with team members efficiently.
 
